@@ -11,8 +11,8 @@ I'm a passionate full-stack developer with 4+ years of experience specializing i
 
 ## 🚀 About Me
 
-- 🔭 Currently working as a **Freelance Web Development Engineer**
-- 🌱 Deepening my expertise in **React**, **TypeScript**, and **System Design**
+- 🔍 **Actively seeking full-time Software Engineering roles** | Open to Frontend, Full-Stack, and React positions
+- - 🌱 Deepening my expertise in **React**, **TypeScript**, and **System Design**
 - 💡 Strong background in **Full-Stack Development** with **React**, **Go**, **Java**, and **Python**
 - 🎯 Passionate about building performant, user-friendly applications
 - 📫 Reach me at: [knganesh97@gmail.com](mailto:knganesh97@gmail.com)
@@ -52,14 +52,14 @@ I'm a passionate full-stack developer with 4+ years of experience specializing i
 
 ## 💼 Professional Experience
 
-### 🔹 Web Development Engineer (Freelance) | HumAIn Co. Ltd.
+### 🔹 Software Engineer | HumAIn Co. Ltd.
 **Dec 2024 - Feb 2025**
 - Revamped frontend for b-align platform using **React**, **TypeScript**, and **Tailwind CSS**
 - Migrated complex Django codebase ensuring smooth integration
 - Contributed **48 clean pull requests** in a 6-member team
 - Delivered on tight deadlines with high code quality
 
-### 🔹 Web Development Engineer (Freelance) | Ashvini Divodasa
+### 🔹 Software Engineer | Ashvini Divodasa
 **Sep 2024 - Dec 2024**
 - Built full-stack website with **React.js** (frontend) and **Go** (backend)
 - Implemented booking, scheduling, and payment integration with automatic refunds
