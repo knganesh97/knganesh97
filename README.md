@@ -11,14 +11,14 @@ I'm a passionate full-stack developer with 4+ years of experience specializing i
 ## About Me
 
 - **Actively seeking full-time Software Engineering roles** | Open to Frontend, Full-Stack, and React positions
-- -  Deepening my expertise in **React**, **TypeScript**, and **System Design**
-- 💡 Strong background in **Full-Stack Development** with **React**, **Go**, **Java**, and **Python**
-- 🎯 Passionate about building performant, user-friendly applications
-- 📫 Reach me at: [knganesh97@gmail.com](mailto:knganesh97@gmail.com)
+-  Deepening my expertise in **React**, **TypeScript**, and **System Design**
+- Strong background in **Full-Stack Development** with **React**, **Go**, **Java**, and **Python**
+- Passionate about building performant, user-friendly applications
+- Reach me at: [knganesh97@gmail.com](mailto:knganesh97@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -81,31 +81,23 @@ I'm a passionate full-stack developer with 4+ years of experience specializing i
 
 ---
 
-## 🏆 Key Achievements
+## Key Achievements
 
-- 🏅 **Customer Obsession Accolade** at Amazon for exceptional customer-focused approach
-- ⭐ **10 Stars Recognition** at HumAIn for consistent high-quality delivery
-- 📈 Boosted cross-team productivity by **150%** through feature development
+- **Customer Obsession Accolade** at Amazon for exceptional customer-focused approach
+- **10 Stars Recognition** at HumAIn for consistent high-quality delivery
+- Boosted cross-team productivity by **150%** through feature development
 - Improved platform performance by **25%** at ChessBase India
-- 💻 Delivered **48 clean pull requests** in tight deadline environment
+- Delivered **48 clean pull requests** in tight deadline environment
 
 ---
 
-## 📊 GitHub Stats
-
-![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=knganesh97&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knganesh97&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Let's Connect!
+## Let's Connect!
 
 - [Portfolio](https://portfolio-kng.vercel.app/)
-- 📧 Email: knganesh97@gmail.com
-- 💻 [GitHub](https://github.com/knganesh97)
-- 🔗 [LinkedIn](https://linkedin.com/in/ganesh-kantimahanthi)
+- Email: knganesh97@gmail.com
+- [GitHub](https://github.com/knganesh97)
+- [LinkedIn](https://linkedin.com/in/ganesh-kantimahanthi)
 
 ---
 
-⭐️ From [knganesh97](https://github.com/knganesh97)
+From [knganesh97](https://github.com/knganesh97)
