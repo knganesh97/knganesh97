@@ -15,7 +15,7 @@ I'm a passionate full-stack developer with 4+ years of experience specializing i
 - 🌱 Deepening my expertise in **React**, **TypeScript**, and **System Design**
 - 💡 Strong background in **Full-Stack Development** with **React**, **Go**, **Java**, and **Python**
 - 🎯 Passionate about building performant, user-friendly applications
-- 📫 Reach me at: [ganesh.kantimahanthi@example.com](mailto:ganesh.kantimahanthi@example.com)
+- 📫 Reach me at: [knganesh97@gmail.com](mailto:knganesh97@gmail.com)
 
 ---
 
@@ -103,7 +103,7 @@ I'm a passionate full-stack developer with 4+ years of experience specializing i
 ## 📫 Let's Connect!
 
 - 💼 [Portfolio](https://portfolio-kng.vercel.app/)
-- 📧 Email: ganesh.kantimahanthi@example.com
+- 📧 Email: knganesh97@gmail.com
 - 💻 [GitHub](https://github.com/knganesh97)
 - 🔗 [LinkedIn](https://linkedin.com/in/ganesh-kantimahanthi)
 
