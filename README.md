@@ -1,4 +1,4 @@
-# Hi there, I'm Ganesh Kantimahanti
+# Hi there, I'm Ganesh Kantimahanthi
 
 ## Software Engineer & Full Stack Developer
 
