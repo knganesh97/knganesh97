@@ -1,18 +1,17 @@
-# Hi there, I'm Ganesh Kantimahanthi 👋
+# Hi there, I'm Ganesh Kantimahant
 
-## 💼 Software Engineer & Full Stack Developer
+## Software Engineer & Full Stack Developer
 
 I'm a passionate full-stack developer with 4+ years of experience specializing in **React** and modern web technologies. I love building scalable applications and contributing to impactful projects.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://portfolio-kng.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ganesh-kantimahanthi)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ganesh-kantimahanthi-297385154/)
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔍 **Actively seeking full-time Software Engineering roles** | Open to Frontend, Full-Stack, and React positions
-- - 🌱 Deepening my expertise in **React**, **TypeScript**, and **System Design**
+- **Actively seeking full-time Software Engineering roles** | Open to Frontend, Full-Stack, and React positions
+- -  Deepening my expertise in **React**, **TypeScript**, and **System Design**
 - 💡 Strong background in **Full-Stack Development** with **React**, **Go**, **Java**, and **Python**
 - 🎯 Passionate about building performant, user-friendly applications
 - 📫 Reach me at: [knganesh97@gmail.com](mailto:knganesh97@gmail.com)
@@ -50,23 +49,23 @@ I'm a passionate full-stack developer with 4+ years of experience specializing i
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-### 🔹 Software Engineer | HumAIn Co. Ltd.
+### Software Engineer | HumAIn Co. Ltd.
 **Dec 2024 - Feb 2025**
 - Revamped frontend for b-align platform using **React**, **TypeScript**, and **Tailwind CSS**
 - Migrated complex Django codebase ensuring smooth integration
 - Contributed **48 clean pull requests** in a 6-member team
 - Delivered on tight deadlines with high code quality
 
-### 🔹 Software Engineer | Ashvini Divodasa
+### Software Engineer | Ashvini Divodasa
 **Sep 2024 - Dec 2024**
 - Built full-stack website with **React.js** (frontend) and **Go** (backend)
 - Implemented booking, scheduling, and payment integration with automatic refunds
 - Developed custom CMS for content management
 - Integrated **Firebase** and deployed backend via **Render**
 
-### 🔹 Programmer Analyst I | Amazon India
+### Programmer Analyst I | Amazon India
 **Apr 2022 - Aug 2023**
 - Developed features using **Java** and **Spring Boot**, boosting productivity by **150%**
 - Built automation tools in **Python**, increasing team efficiency by **50%**
@@ -74,7 +73,7 @@ I'm a passionate full-stack developer with 4+ years of experience specializing i
 - Conducted code reviews and mentored team members
 - Guided 60+ clients on API rate limiting strategies
 
-### 🔹 Tech Administrator | ChessBase India
+### Tech Administrator | ChessBase India
 **May 2020 - Feb 2022**
 - Built backend APIs using **Go**, improving performance by **25%**
 - Developed CMS enhancing backend efficiency by **400%**
@@ -87,7 +86,7 @@ I'm a passionate full-stack developer with 4+ years of experience specializing i
 - 🏅 **Customer Obsession Accolade** at Amazon for exceptional customer-focused approach
 - ⭐ **10 Stars Recognition** at HumAIn for consistent high-quality delivery
 - 📈 Boosted cross-team productivity by **150%** through feature development
-- 🚀 Improved platform performance by **25%** at ChessBase India
+- Improved platform performance by **25%** at ChessBase India
 - 💻 Delivered **48 clean pull requests** in tight deadline environment
 
 ---
@@ -102,7 +101,7 @@ I'm a passionate full-stack developer with 4+ years of experience specializing i
 
 ## 📫 Let's Connect!
 
-- 💼 [Portfolio](https://portfolio-kng.vercel.app/)
+- [Portfolio](https://portfolio-kng.vercel.app/)
 - 📧 Email: knganesh97@gmail.com
 - 💻 [GitHub](https://github.com/knganesh97)
 - 🔗 [LinkedIn](https://linkedin.com/in/ganesh-kantimahanthi)
