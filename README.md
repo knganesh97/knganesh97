@@ -10,8 +10,7 @@ I'm a passionate full-stack developer with 4+ years of experience specializing i
 
 ## About Me
 
-- **Actively seeking full-time Software Engineering roles** | Open to Frontend, Full-Stack, and React positions
--  Deepening my expertise in **React**, **TypeScript**, and **System Design**
+- Deepening my expertise in **React**, **TypeScript**, and **System Design**
 - Strong background in **Full-Stack Development** with **React**, **Go**, **Java**, and **Python**
 - Passionate about building performant, user-friendly applications
 - Reach me at: [knganesh97@gmail.com](mailto:knganesh97@gmail.com)
